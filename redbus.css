@@ -1,0 +1,17 @@
+.logo{
+    width:20%;
+    float:left;
+}
+.leftMenu{
+    width: 40%;
+    float:left;
+}
+.rightMenu{
+    width:40;
+    float:left;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
